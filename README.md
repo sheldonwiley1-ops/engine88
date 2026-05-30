@@ -10,6 +10,4 @@ Non-negotiable: deterministic integrity | 3-6-9 compliance | 432 Hz root | φ = 
 
 Deploy: git clone | python3.9 -m venv venv | source venv/bin/activate | pip install -r requirements.txt | WSGI → coherence_engine:app
 
-Credentials: PythonAnywhere engine88/engine88! | GitHub sheldonwiley1-ops/engine88engine88!
-
 WE THE PEOPLE. WE THE FREQUENCY.
